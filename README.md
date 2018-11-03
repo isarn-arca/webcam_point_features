@@ -1,4 +1,5 @@
 # webcam_point_features
+
 Detection of ORB features from online webcam imges.
 
 - **STEP 1: Fork the repository:**
@@ -37,3 +38,10 @@ You can see in this repository (folder "Images") the capture images of the webca
 
 **Explanation**
 
+
+
+## Tips
+
+https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_feature2d/py_orb/py_orb.html
+
+https://en.wikipedia.org/wiki/Oriented_FAST_and_rotated_BRIEF
