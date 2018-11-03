@@ -28,3 +28,6 @@ $ make
 **STEP 7: Execute:**
 
 $ ./point_features
+
+**Comment:**
+You can see in this repository (folder "Images") the capture images of the webcam_point_features
