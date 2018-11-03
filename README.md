@@ -24,6 +24,7 @@ $ cd build
 **STEP 6: Compile:**
 
 $ cmake ..
+
 $ make
 
 **STEP 7: Execute:**
