@@ -38,7 +38,7 @@ You can see in this repository (folder "Images") the capture images of the webca
 
 **Explanation**
 
-
+The program scan the image using a mask so detetects and calculates the most significative pixel in the image.
 
 ## Tips
 
